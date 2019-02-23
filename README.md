@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project is a deep leanrning based prediction model for Protein Abundance levels based on the 50nt upstream of the start codon (UTR5)
+This project is a deep leanrning prediction model for Protein Abundance levels based on the 50nt upstream of the start codon (UTR5)
 
 ## Files:
 1. XXX - jupyter notebook for training and evaluating the networks models

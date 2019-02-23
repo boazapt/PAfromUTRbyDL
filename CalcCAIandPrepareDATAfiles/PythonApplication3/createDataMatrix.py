@@ -5,10 +5,10 @@ import numpy as np
 
 import dataAccess as da
 
-server      = "212.235.125.48"
+server      = "asdf"
 db          = "DNA"
 user        = "DNA"
-password    = "0.5 way done"
+password    = "asdf"
 dataa    = da.pymssql.connect(server, user, password, "DNA")
 
 # for NN the data will be like this: ACTATG we will get an array 1000 0010 0100 1000 0010 0001

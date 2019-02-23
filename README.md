@@ -7,8 +7,10 @@ This project is a deep leanrning prediction model for Protein Abundance levels b
 ## Directories:
 1. models - contain the file PAfromUTRbyDL.ipynb, jupyter notebook for training and evaluating the our models
 2. CalcCAIandPrepareDATAfiles - contain the scripts for calculating the CAI and prepare the data files
-  - XXX - script for calculating the CAI values for each bacteria
-  - XXX - script for building data file for the networks
+  - calcCAI.py - script for calculating the CAI values for each bacteria
+  - createDataMatrix.py - script for building data file for the networks
+  - bacteria.py - class for bacteria with help functions
+  - dataAccess.py - calss for connection DB
   - data_NN_1500_records_from038_to088_for_each_hundretch_of_each_bacteria_75000_Records.zip - file with 75K labeled data for
     the fully connected and CNN models
   - data_random_forest_1500_records_from037_to087_for_each_hundretch_of_each_bacteria_75000_Records.zip - file with 75K labeled

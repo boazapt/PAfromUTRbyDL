@@ -15,7 +15,7 @@ This project is a deep leanrning prediction model for Protein Abundance levels b
     the fully connected and CNN models
   - data_random_forest_1500_records_from037_to087_for_each_hundretch_of_each_bacteria_75000_Records.zip - file with 75K labeled
     data for the random forest model
-3. XXX - script for extracting raw data from genum files (downloaded from NCBI) and upload to DB
+3. LoadingToDB - contain script for extracting raw data and upload to DB
 
 If you have any question or want to run with more data, please email us. We have processed 2.2M labeled records. 
 

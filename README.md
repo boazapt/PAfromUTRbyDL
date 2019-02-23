@@ -12,6 +12,8 @@ This project is a deep leanrning prediction model for Protein Abundance levels b
 5. XXX - file with 75K labeled data for the fully connected and CNN models
 6. XXX - file with 75K labeled data for the random forest model
 
+If you have any question or want to run with more data, please email us. We have processed 2.2M labeled records. 
+
 ## Contacts:
 
 boazapt@mail.tau.ac.il or doryaniv@mail.tau.ac.il
